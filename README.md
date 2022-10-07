@@ -1,14 +1,16 @@
-# contributor-katacoda
+# contributor-codespaces
 
-Welcome to Contributor Katacoda!
+Welcome to Contributor Playground on Codespaces!
 
-This repository hosts [Katacoda scenarios](https://katacoda.com/k8scontributors) for aspiring contributors and aims to familiarize them with the process of contributing to Kubernetes. 
+This repository hosts [Codespaces scenarios](https://kubernetes-sig/contributor-codespaces) for aspiring contributors and aims to familiarize them with the process of contributing to Kubernetes.
+
+Start with the [introduction](Scenario-setup-linux/intro.md).
 
 This project is currently owned and maintained by the [SIG Contribex Mentoring Subproject](https://github.com/kubernetes/community/tree/master/mentoring)
 
 ## Contribute
 
-We are always looking for people to help us improve these katacoda scenarios with more use cases. Look at our [contributing guide](CONTRIBUTING.md) to get started.
+We are always looking for people to help us improve these  scenarios with more use cases. Look at our [contributing guide](CONTRIBUTING.md) to get started.
 Please feel free to join our [weekly meetings](https://github.com/kubernetes/community/tree/master/sig-contributor-experience#mentoring) or reach out to the maintainers of this project in the SIG-Contribex channel on [kubernetes slack](slack.k8s.io).
 
 ## Community, Discussion, and Support
@@ -22,6 +24,8 @@ You can reach the maintainers of this project at:
 
 ## Note
  
+- [ ] Determine what to do here
+
 This repository will only host basic tutorials for contributors to familiarize themselves with the contribution process. Any end-user related tutorials/courses is out of the purview of this repository. End-user related scenarios may be found [here](https://www.katacoda.com/courses/kubernetes). 
 
 ### Code of conduct
